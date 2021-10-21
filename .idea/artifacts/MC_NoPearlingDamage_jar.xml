@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MC-NoPearlingDamage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MC_NoPearlingDamage_jar</output-path>
+    <root id="archive" name="MC-NoPearlingDamage.jar">
+      <element id="module-output" name="MC-NoPearlingDamage" />
+    </root>
+  </artifact>
+</component>
